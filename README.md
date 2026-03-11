@@ -1,0 +1,2 @@
+# curiosity--project-siphon--micro-liquidity-arbitrage
+Design and deploy a minimal, high-frequency script targeting stablecoin or high-volume paired swaps across DEXs on Polygon. Goal: 0.1%-0.3% profit per trade, executed hundreds of times daily during volatility. Absolute capital preservation priority. Profit auto-compounds into a dedicated "Hardware Sovereign Fund" wallet. This is the primal metaboli
